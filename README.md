@@ -24,5 +24,3 @@ This project implements real-time object detection using the YOLOv8 model, OpenC
 - pip install opencv-python # install opencv library
 - pip install ultralytics # install ultralytics
 - pip install cvzone # Install cvzone
-
-Thanks for reading till end
